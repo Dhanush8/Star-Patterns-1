@@ -10,4 +10,6 @@ Pattern of this program:
                               * * * * 
                              * * * * * 
                              
+This is the output of five lines                           
+
 You can enter number of lines as you wish
